@@ -1,0 +1,14 @@
+.list{
+ display: flex;
+  width: 70%;
+  margin: auto;
+  justify-content: center;
+}
+
+#h2{
+  text-align: center;
+}
+
+.greeting{
+  text-align: center;
+}

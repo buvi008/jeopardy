@@ -1,0 +1,10 @@
+.row{
+  width:600px;
+  display: flex;
+  flex-direction:row;
+}
+
+.data{
+  max-width: 100px;
+  
+}
